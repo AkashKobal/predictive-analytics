@@ -7,6 +7,9 @@ Predictive analytics is conceptual in nature, focusing on achieving competitive 
 - Gain insights into modern data analytic concepts.
 - Develop skills for analyzing and synthesizing data sets for effective decision-making in firms.
 
+## Content
+1.
+
 ## Skills Developed
 Throughout this course, learners will develop the following skills:
 1. **An Attitude of Enquiry**
