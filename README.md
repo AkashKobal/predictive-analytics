@@ -2,7 +2,7 @@
 
 Welcome to the Predictive Analytics repository! This repository is designed to provide learners with a comprehensive understanding of predictive analytics, enabling them to leverage modern data analytic concepts for decision-making across various industries.
 
-## Course Description
+## Repository Description
 Predictive analytics is conceptual in nature, focusing on achieving competitive strategy across industries. In this course, learners will:
 - Gain insights into modern data analytic concepts.
 - Develop skills for analyzing and synthesizing data sets for effective decision-making in firms.
