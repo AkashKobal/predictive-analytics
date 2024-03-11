@@ -26,10 +26,4 @@ To get started with the course, please refer to the following resources:
 - [Assignments](#): Find assignments to practice and reinforce your learning.
 - [Projects](#): Engage in hands-on projects to apply your skills in real-world scenarios.
 
-## Additional Resources
-Explore additional resources to deepen your understanding of predictive analytics:
-- [Online Certification in Predictive Analytics in Python](https://www.ey.com/en_in/ey-faas-learning-solutions/certificate-in-predictive-analytics-in-python#:~:text=About%20the%20course,behave%20in%20a%20future%20situation.) [[1](https://www.ey.com/en_in/ey-faas-learning-solutions/certificate-in-predictive-analytics-in-python#:~:text=About%20the%20course,behave%20in%20a%20future%20situation.)]
-- [Python Data Products for Predictive Analytics Specialization](https://www.coursera.org/specializations/python-data-products-for-predictive-analytics) [[2](https://www.coursera.org/specializations/python-data-products-for-predictive-analytics)]
-- [Introduction to Predictive Analytics in Python Course](https://www.datacamp.com/courses/introduction-to-predictive-analytics-in-python) [[3](https://www.datacamp.com/courses/introduction-to-predictive-analytics-in-python)]
-
 Feel free to contribute, ask questions, and engage with other learners to enhance your learning experience!
