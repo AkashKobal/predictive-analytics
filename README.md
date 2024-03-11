@@ -20,10 +20,4 @@ Throughout this course, learners will develop the following skills:
 6. **Selection of suitable software**
 7. **Prediction of the required output for given problems**
 
-## Getting Started
-To get started with the course, please refer to the following resources:
-- [Course Materials](#): Access course materials such as lectures, slides, and exercises.
-- [Assignments](#): Find assignments to practice and reinforce your learning.
-- [Projects](#): Engage in hands-on projects to apply your skills in real-world scenarios.
-
 Feel free to contribute, ask questions, and engage with other learners to enhance your learning experience!
