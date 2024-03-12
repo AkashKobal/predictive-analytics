@@ -15,7 +15,7 @@ Throughout this course, learners will develop the following skills:
 1. **An Attitude of Enquiry**
 2. **Confidence and ability to tackle new problems**
 3. **Ability to work as a leader and as a member of a team**
-4. **Assessment of errors and elimination**
+4. **Assessment of errors and elimination** 
 5. **Report writing**
 6. **Selection of suitable software**
 7. **Prediction of the required output for given problems**
