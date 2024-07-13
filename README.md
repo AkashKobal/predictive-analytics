@@ -17,7 +17,7 @@ Throughout this course, learners will develop the following skills:
 3. **Ability to work as a leader and as a member of a team**
 4. **Assessment of errors and elimination** 
 5. **Report writing**
-6. **Selection of suitable software**
+6. **Selection of suitable software** 
 7. **Prediction of the required output for given problems**
 
 Feel free to contribute, ask questions, and engage with other learners to enhance your learning experience!
