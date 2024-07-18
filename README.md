@@ -1,4 +1,4 @@
-# Predictive Analytics 
+# Predictive Analytics  
 
 Welcome to the Predictive Analytics repository! This repository is designed to provide learners with a comprehensive understanding of predictive analytics, enabling them to leverage modern data analytic concepts for decision-making across various industries.
 
